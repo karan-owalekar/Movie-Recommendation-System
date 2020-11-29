@@ -8,6 +8,7 @@
 
 > By eleminating movies with less than 150 or 100 reviews, obtained results are quiet accurate.
 
+<br>
 
 ![recmov2](https://user-images.githubusercontent.com/68480967/100551567-75aaff00-32a7-11eb-98f7-a8e94731f1a4.jpg)
 
